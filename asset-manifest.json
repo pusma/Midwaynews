@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Midwaynews/static/css/main.b5ba91e7.css",
+    "main.js": "/Midwaynews/static/js/main.df37ac52.js",
+    "static/js/787.f587e8d5.chunk.js": "/Midwaynews/static/js/787.f587e8d5.chunk.js",
+    "static/media/midway.jpg": "/Midwaynews/static/media/midway.251c031fa07590fa64cd.jpg",
+    "static/media/midway.png": "/Midwaynews/static/media/midway.816718cd6c2722948cd7.png",
+    "index.html": "/Midwaynews/index.html",
+    "main.b5ba91e7.css.map": "/Midwaynews/static/css/main.b5ba91e7.css.map",
+    "main.df37ac52.js.map": "/Midwaynews/static/js/main.df37ac52.js.map",
+    "787.f587e8d5.chunk.js.map": "/Midwaynews/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5ba91e7.css",
+    "static/js/main.df37ac52.js"
+  ]
+}
